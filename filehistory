@@ -6,3 +6,18 @@
     6  alias c=clear
     7  c
     8  history > filehistory
+    9  git status
+   10  git add *
+   11  git commit -m "update(dodanie pliku historia)"
+   12  git config --global user.email "norbert.ttembinski@gmail.com"
+   13  git config --global user.name "Norbert_T"
+   14  git commit -m "update(dodanie pliku historia)"
+   15  commit help
+   16  help commit
+   17  git help
+   18  git commit help
+   19  git help commit
+   20  c
+   21  git status
+   22  git push origin main
+   23  history > filehistory
