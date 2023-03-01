@@ -1,0 +1,8 @@
+    1  git clone link.pl
+    2  git clone https://github.com/AsHinSaH/WSB_k15_pai.git
+    3  ls
+    4  cd WSB_k15_pai/
+    5  ls
+    6  alias c=clear
+    7  c
+    8  history > filehistory
